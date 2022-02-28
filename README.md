@@ -1,9 +1,7 @@
 # Проект: Путешествие по России
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+
+https://anastasiyaovsyasha.github.io/russian-travel/
 
 **Интро**
 
