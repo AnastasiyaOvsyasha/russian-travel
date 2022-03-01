@@ -8,6 +8,7 @@
   text-align: center;
   color: #fff;
   z-index: 2;
+  font-family: 'Inter', Arial, sans-serif;
 }
 
 @media screen and (max-width: 767px) {
